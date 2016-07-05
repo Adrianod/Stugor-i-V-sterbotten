@@ -72,5 +72,6 @@
 { "type": "Feature", "properties": { "Namn": "Angsjökojan", "Bäddar": 4, "Avgift": "Nej", "lat": 63.974878, "lng": 18.041203, "Notering": null, "URL": "https:\/\/www.sverigesnationalparker.se\/park\/bjornlandets-nationalpark\/" }, "geometry": { "type": "Point", "coordinates": [ 18.041203, 63.974878 ] } },
 { "type": "Feature", "properties": { "Namn": "Svärmorskojan", "Bäddar": 4, "Avgift": "Nej", "lat": 63.983793, "lng": 17.985134, "Notering": null, "URL": "https:\/\/www.sverigesnationalparker.se\/park\/bjornlandets-nationalpark\/" }, "geometry": { "type": "Point", "coordinates": [ 17.985134, 63.983793 ] } },
 { "type": "Feature", "properties": { "Namn": "Tjäderberget", "Bäddar": 4, "Avgift": "Nej", "lat": 64.443317, "lng": 19.054370, "Notering": null, "URL": "http:\/\/www.sca.com\/Global\/SCA-Skog\/Press-Publikationer\/broschyrer\/Tj%C3%A4derberget_20140514_SLUTKORR.pdf?epslanguage=sv#page=13" }, "geometry": { "type": "Point", "coordinates": [ 19.05437, 64.443317 ] } }
+{ "type": "Feature", "properties": { "Namn": "Stor-Sexberget", "Bäddar": null, "Avgift": "Nej", "lat": 63.924318, "lng": 18.576740, "Notering": null, "URL": "http:\/\/www.aselebyar.nu\/fredrika\/index.php?expand=1&expand2=1&menuID=1274&pageID=1093&submenuID=1344&subpageID=1134" }, "geometry": { "type": "Point", "coordinates": [ 18.57674, 63.924318 ] } }
 ]
 }
