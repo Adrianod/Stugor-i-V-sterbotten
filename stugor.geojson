@@ -72,6 +72,7 @@
 { "type": "Feature", "properties": { "Namn": "Svärmorskojan", "Bäddar": 4, "Avgift": "Nej", "lat": 63.983793, "lng": 17.985134, "Notering": null, "URL": "https:\/\/www.sverigesnationalparker.se\/park\/bjornlandets-nationalpark\/" }, "geometry": { "type": "Point", "coordinates": [ 17.985134, 63.983793 ] } },
 { "type": "Feature", "properties": { "Namn": "Tjäderberget", "Bäddar": 4, "Avgift": "Nej", "lat": 64.443317, "lng": 19.05437, "Notering": null, "URL": "http:\/\/www.sca.com\/Global\/SCA-Skog\/Press-Publikationer\/broschyrer\/Tj%C3%A4derberget_20140514_SLUTKORR.pdf?epslanguage=sv#page=13" }, "geometry": { "type": "Point", "coordinates": [ 19.05437, 64.443317 ] } },
 { "type": "Feature", "properties": { "Namn": "Stor-Sexberget", "Bäddar": null, "Avgift": "Nej", "lat": 63.924318, "lng": 18.57674, "Notering": null, "URL": "http:\/\/www.aselebyar.nu\/fredrika\/index.php?expand=1&expand2=1&menuID=1274&pageID=1093&submenuID=1344&subpageID=1134" }, "geometry": { "type": "Point", "coordinates": [ 18.57674, 63.924318 ] } },
-{ "type": "Feature", "properties": { "Namn": "Flottarkojan", "Bäddar": 4, "Avgift": "Ja", "lat": null, "lng": null, "Notering": null, "URL": null }, "geometry": { "type": "Point", "coordinates": [ 18.900754561591761, 63.878969381905463 ] } }
+{ "type": "Feature", "properties": { "Namn": "Flottarkojan", "Bäddar": 4, "Avgift": "Ja", "lat": null, "lng": null, "Notering": null, "URL": null }, "geometry": { "type": "Point", "coordinates": [ 18.900754561591761, 63.878969381905463 ] } },
+{ "type": "Feature", "properties": { "Namn": "Folke Ricklunds stuga", "Bäddar": 2, "Avgift": "Nej", "Notering": null, "URL": null }, "geometry": { "type": "Point", "coordinates": [ 17.840415435942965, 63.894532029953155 ] } }
 ]
 }
